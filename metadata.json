@@ -1,0 +1,7 @@
+{
+  "name": "Magic Particle Christmas Tree",
+  "description": "A real-time 3D interactive particle system that transforms between a festive spiral Christmas tree and falling snow. Features mouse interaction, UI customization, and webcam-based hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
